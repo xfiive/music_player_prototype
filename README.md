@@ -1,0 +1,1 @@
+The project reprensents my vision of how some simplified music player(like spotify or yandex music)could look like. Was built in terms and requirements of uni porject, so some soluitons may look strange, but in general view they do justify the means.
